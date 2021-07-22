@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![MagmMe's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/MagmMe/github-readme-stats)
+[![MagmMe's GitHub stats](https://github-readme-stats.vercel.app/api?username=MagmMe)](https://github.com/MagmMe/github-readme-stats)
 
 
 - 🔭 I’m currently working on ...
