@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![MagmMe's GitHub stats](https://github-readme-stats.vercel.app/api?username=MagmMe)](https://github.com/MagmMe/github-readme-stats)
-
 ![MagmMe's GitHub stats](https://github-readme-stats.vercel.app/api?username=MagmMe&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MagmMe)](https://github.com/MagmMe/github-readme-stats)
