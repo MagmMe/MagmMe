@@ -2,6 +2,9 @@
 
 [![MagmMe's GitHub stats](https://github-readme-stats.vercel.app/api?username=MagmMe)](https://github.com/MagmMe/github-readme-stats)
 
+![MagmMe's GitHub stats](https://github-readme-stats.vercel.app/api?username=MagmMe&count_private=true)
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
