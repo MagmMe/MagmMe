@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi%2C+I'm+Marcin+%F0%9F%91%8B;Full-Stack+%26+Mobile+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Hi%2C+I'm+Marcin+%F0%9F%91%8B;Full-Stack+%26+Mobile+Developer;Automation+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,10 +17,11 @@
 const marcin = {
     location: "Chrzanow, Poland",
     company: "Magme Agency",
-    roles: ["Full-Stack Developer", "iOS Developer", "Web Developer"],
-    currentlyWorkingOn: "Mobile apps and web solutions",
+    roles: ["Full-Stack Developer", "iOS Developer", "Automation Specialist"],
+    passion: "Automation - making things work smarter, not harder",
+    currentlyWorkingOn: "Process automation and intelligent workflows",
     dailyUse: [".swift", ".js", ".php", ".html", ".css"],
-    goal2026: "Mastering SwiftUI and modern JS frameworks"
+    goal2026: "Building systems that automate everything"
 };
 ```
 
