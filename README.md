@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Cze%C5%9B%C4%87%2C+jestem+Marcin+%F0%9F%91%8B;Full-Stack+%26+Mobile+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi+I+am+Martin+%F0%9F%91%8B;Full-Stack+%26+Mobile+Developer" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> O mnie
 
 ```javascript
-const marcin = {
+const martin = {
     lokalizacja: "Chrzanow, Polska",
     firma: "Magme Agency",
     role: ["Full-Stack Developer", "iOS Developer", "Web Developer"],
@@ -67,26 +67,81 @@ const marcin = {
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MagmMe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MagmMe&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MagmMe&theme=tokyonight" alt="Profile Details"/>
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagmMe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MagmMe&theme=tokyonight" alt="Repos per Language"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MagmMe&theme=tokyonight" alt="Most Commit Language"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MagmMe&theme=tokyonight" alt="Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MagmMe&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
 </p>
 
 ---
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> Wybrane projekty
 
-<p align="center">
-  <a href="https://github.com/MagmMe/WellCore-Beacon-App">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MagmMe&repo=WellCore-Beacon-App&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="WellCore Beacon App"/>
-  </a>
-  <a href="https://github.com/MagmMe/TabataTimer">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MagmMe&repo=TabataTimer&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Tabata Timer"/>
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">WellCore Beacon App</h3>
+      <p align="center">
+        <a href="https://github.com/MagmMe/WellCore-Beacon-App">
+          <img src="https://img.shields.io/badge/iOS-iBeacon_Detection-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="WellCore"/>
+        </a>
+      </p>
+      <p align="center">Aplikacja iOS do wykrywania i monitorowania iBeaconow</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Swift-100%25-FA7343?style=flat-square&logo=swift&logoColor=white"/>
+        <img src="https://img.shields.io/github/stars/MagmMe/WellCore-Beacon-App?style=flat-square&color=yellow"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Tabata Timer</h3>
+      <p align="center">
+        <a href="https://github.com/MagmMe/TabataTimer">
+          <img src="https://img.shields.io/badge/iOS-Workout_Timer-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Tabata"/>
+        </a>
+      </p>
+      <p align="center">Timer treningowy dla interwalow Tabata</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Swift-100%25-FA7343?style=flat-square&logo=swift&logoColor=white"/>
+        <img src="https://img.shields.io/github/stars/MagmMe/TabataTimer?style=flat-square&color=yellow"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">UserLocation</h3>
+      <p align="center">
+        <a href="https://github.com/MagmMe/UserLocation">
+          <img src="https://img.shields.io/badge/iOS-Location_Services-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="UserLocation"/>
+        </a>
+      </p>
+      <p align="center">Modul lokalizacji uzytkownika dla aplikacji iOS</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Swift-100%25-FA7343?style=flat-square&logo=swift&logoColor=white"/>
+        <img src="https://img.shields.io/github/stars/MagmMe/UserLocation?style=flat-square&color=yellow"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">PrestaShop Module</h3>
+      <p align="center">
+        <a href="https://github.com/MagmMe/prestaOrderTermConditions">
+          <img src="https://img.shields.io/badge/PrestaShop-Order_Terms-DF0067?style=for-the-badge&logo=prestashop&logoColor=white" alt="PrestaShop"/>
+        </a>
+      </p>
+      <p align="center">Modul warunkow zamowienia dla PrestaShop 1.7.6</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PHP-100%25-777BB4?style=flat-square&logo=php&logoColor=white"/>
+        <img src="https://img.shields.io/github/stars/MagmMe/prestaOrderTermConditions?style=flat-square&color=yellow"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
