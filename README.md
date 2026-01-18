@@ -15,13 +15,13 @@
 
 ```javascript
 const marcin = {
-    location: "Chrzanow, Poland",
-    company: "Magme Agency",
-    roles: ["Full-Stack Developer", "iOS Developer", "Automation Specialist"],
-    passion: "Automation - making things work smarter, not harder",
-    currentlyWorkingOn: "Process automation and intelligent workflows",
-    dailyUse: [".swift", ".js", ".php", ".html", ".css"],
-    goal2026: "Building systems that automate everything"
+	location: "Chrzanow, Poland",
+	company: "Magme Agency",
+	roles: ["Full-Stack Developer", "iOS Developer", "Automation Specialist"],
+	passion: "Automation - making things work smarter, not harder",
+	currentlyWorkingOn: "Process automation and intelligent workflows",
+	dailyUse: [".swift", ".js", ".php", ".html", ".css"],
+	goal2026: "Building systems that automate everything",
 };
 ```
 
@@ -30,7 +30,7 @@ const marcin = {
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=swift,js,php,html,css,tailwind,mysql,git,github,xcode,vscode&perline=6" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=swift,js,php,html,css,tailwind,mysql,git,github,xcode,vscode&perline=5" alt="Tech Stack"/>
 </p>
 
 <details>
