@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi+I+am+Martin+%F0%9F%91%8B;Full-Stack+%26+Mobile+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi%2C+I'm+Marcin+%F0%9F%91%8B;Full-Stack+%26+Mobile+Developer" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,16 +11,16 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> O mnie
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
 ```javascript
-const martin = {
-    lokalizacja: "Chrzanow, Polska",
-    firma: "Magme Agency",
-    role: ["Full-Stack Developer", "iOS Developer", "Web Developer"],
-    aktualniePracujeNad: "Aplikacje mobilne i rozwiazania webowe",
-    codziennieUzywam: [".swift", ".js", ".php", ".html", ".css"],
-    celNa2026: "Rozwoj w SwiftUI i nowoczesnych frameworkach JS"
+const marcin = {
+    location: "Chrzanow, Poland",
+    company: "Magme Agency",
+    roles: ["Full-Stack Developer", "iOS Developer", "Web Developer"],
+    currentlyWorkingOn: "Mobile apps and web solutions",
+    dailyUse: [".swift", ".js", ".php", ".html", ".css"],
+    goal2026: "Mastering SwiftUI and modern JS frameworks"
 };
 ```
 
@@ -33,7 +33,7 @@ const martin = {
 </p>
 
 <details>
-<summary><b>Rozwin pelna liste technologii</b></summary>
+<summary><b>Expand full tech list</b></summary>
 <br>
 
 **Mobile Development**
@@ -54,7 +54,7 @@ const martin = {
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PrestaShop](https://img.shields.io/badge/PrestaShop-DF0067?style=flat-square&logo=prestashop&logoColor=white)
 
-**Narzedzia**
+**Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -82,7 +82,7 @@ const martin = {
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> Wybrane projekty
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> Featured Projects
 
 <table>
   <tr>
@@ -93,7 +93,7 @@ const martin = {
           <img src="https://img.shields.io/badge/iOS-iBeacon_Detection-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="WellCore"/>
         </a>
       </p>
-      <p align="center">Aplikacja iOS do wykrywania i monitorowania iBeaconow</p>
+      <p align="center">iOS app for detecting and monitoring iBeacons</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Swift-100%25-FA7343?style=flat-square&logo=swift&logoColor=white"/>
         <img src="https://img.shields.io/github/stars/MagmMe/WellCore-Beacon-App?style=flat-square&color=yellow"/>
@@ -106,7 +106,7 @@ const martin = {
           <img src="https://img.shields.io/badge/iOS-Workout_Timer-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Tabata"/>
         </a>
       </p>
-      <p align="center">Timer treningowy dla interwalow Tabata</p>
+      <p align="center">Workout timer for Tabata intervals</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Swift-100%25-FA7343?style=flat-square&logo=swift&logoColor=white"/>
         <img src="https://img.shields.io/github/stars/MagmMe/TabataTimer?style=flat-square&color=yellow"/>
@@ -121,7 +121,7 @@ const martin = {
           <img src="https://img.shields.io/badge/iOS-Location_Services-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="UserLocation"/>
         </a>
       </p>
-      <p align="center">Modul lokalizacji uzytkownika dla aplikacji iOS</p>
+      <p align="center">User location module for iOS apps</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Swift-100%25-FA7343?style=flat-square&logo=swift&logoColor=white"/>
         <img src="https://img.shields.io/github/stars/MagmMe/UserLocation?style=flat-square&color=yellow"/>
@@ -134,7 +134,7 @@ const martin = {
           <img src="https://img.shields.io/badge/PrestaShop-Order_Terms-DF0067?style=for-the-badge&logo=prestashop&logoColor=white" alt="PrestaShop"/>
         </a>
       </p>
-      <p align="center">Modul warunkow zamowienia dla PrestaShop 1.7.6</p>
+      <p align="center">Order terms & conditions module for PrestaShop 1.7.6</p>
       <p align="center">
         <img src="https://img.shields.io/badge/PHP-100%25-777BB4?style=flat-square&logo=php&logoColor=white"/>
         <img src="https://img.shields.io/github/stars/MagmMe/prestaOrderTermConditions?style=flat-square&color=yellow"/>
@@ -142,16 +142,6 @@ const martin = {
     </td>
   </tr>
 </table>
-
----
-
-## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="28"> Aktywnosc
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MagmMe/MagmMe/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MagmMe/MagmMe/blob/output/github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/MagmMe/MagmMe/blob/output/github-snake-dark.svg" />
-</picture>
 
 ---
 
