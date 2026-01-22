@@ -30,7 +30,7 @@ const marcin = {
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=swift,js,php,bash,html,css,tailwind,mysql,git,github,apple,docker,figma,laravel,nodejs,vscode&perline=6" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=swift,js,php,bash,html,css,tailwind,mysql,git,github,apple,docker,figma,laravel,nodejs,yarn,vscode&perline=6" alt="Tech Stack"/>
 </p>
 
 <details>
