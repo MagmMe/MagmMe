@@ -89,6 +89,19 @@ const marcin = {
 <table>
   <tr>
     <td width="50%">
+      <h3 align="center">Garmin Cleaner</h3>
+      <p align="center">
+        <a href="https://github.com/MagmMe/garmincleaner">
+          <img src="https://img.shields.io/badge/macOS-Disk_Cleanup-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Garmin Cleaner"/>
+        </a>
+      </p>
+      <p align="center">Script to clean old Garmin Express installations & maps (PL/EN)</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Bash-100%25-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
+        <img src="https://img.shields.io/github/stars/MagmMe/garmincleaner?style=flat-square&color=yellow"/>
+      </p>
+    </td>
+    <td width="50%">
       <h3 align="center">WellCore Beacon App</h3>
       <p align="center">
         <a href="https://github.com/MagmMe/WellCore-Beacon-App">
@@ -101,6 +114,8 @@ const marcin = {
         <img src="https://img.shields.io/github/stars/MagmMe/WellCore-Beacon-App?style=flat-square&color=yellow"/>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center">Tabata Timer</h3>
       <p align="center">
@@ -114,8 +129,6 @@ const marcin = {
         <img src="https://img.shields.io/github/stars/MagmMe/TabataTimer?style=flat-square&color=yellow"/>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3 align="center">UserLocation</h3>
       <p align="center">
@@ -127,19 +140,6 @@ const marcin = {
       <p align="center">
         <img src="https://img.shields.io/badge/Swift-100%25-FA7343?style=flat-square&logo=swift&logoColor=white"/>
         <img src="https://img.shields.io/github/stars/MagmMe/UserLocation?style=flat-square&color=yellow"/>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">PrestaShop Module</h3>
-      <p align="center">
-        <a href="https://github.com/MagmMe/prestaOrderTermConditions">
-          <img src="https://img.shields.io/badge/PrestaShop-Order_Terms-DF0067?style=for-the-badge&logo=prestashop&logoColor=white" alt="PrestaShop"/>
-        </a>
-      </p>
-      <p align="center">Order terms & conditions module for PrestaShop 1.7.6</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/PHP-100%25-777BB4?style=flat-square&logo=php&logoColor=white"/>
-        <img src="https://img.shields.io/github/stars/MagmMe/prestaOrderTermConditions?style=flat-square&color=yellow"/>
       </p>
     </td>
   </tr>
