@@ -1,13 +1,24 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Hi%2C+I'm+Marcin+%F0%9F%91%8B;Full-Stack+%26+Mobile+Developer;Automation+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Marcin%20Magiera&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20Mobile%20Developer&descAlignY=60&descSize=20" width="100%"/>
+</div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/🤘marcin-magiera-57539896/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:marcin@magme.pl"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/MagmMe"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <img src="https://komarev.com/ghpvc/?username=MagmMe&style=for-the-badge&color=6366f1" alt="Profile Views"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Hi%2C+I'm+Marcin+%F0%9F%91%8B;Full-Stack+%26+Mobile+Developer;Automation+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
 </p>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/🤘marcin-magiera-57539896/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:marcin@magme.pl">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/MagmMe">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=MagmMe&style=flat-square&color=6366f1&label=PROFILE+VIEWS" alt="Profile Views"/>
+</div>
 
 ---
 
@@ -15,13 +26,13 @@
 
 ```javascript
 const marcin = {
-	location: "Chrzanow, Poland",
-	company: "Magme Agency",
-	roles: ["Full-Stack Developer", "iOS Developer", "Automation Specialist"],
-	passion: "Automation - making things work smarter, not harder",
-	currentlyWorkingOn: "Process automation and intelligent workflows",
-	dailyUse: [".swift", ".js", ".php", ".html", ".css"],
-	goal2026: "Building systems that automate everything",
+    location: "Chrzanow, Poland",
+    company: "Magme Agency",
+    roles: ["Full-Stack Developer", "iOS Developer", "Automation Specialist"],
+    passion: "Automation - making things work smarter, not harder",
+    currentlyWorkingOn: "Process automation and intelligent workflows",
+    dailyUse: [".swift", ".js", ".php", ".html", ".css"],
+    goal2026: "Building systems that automate everything",
 };
 ```
 
@@ -30,7 +41,7 @@ const marcin = {
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=swift,js,php,react,bash,html,css,tailwind,mysql,git,github,apple,docker,figma,laravel,nodejs,yarn,vscode&perline=6" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=swift,js,php,react,bash,html,css,tailwind,mysql,git,github,apple,docker,figma,laravel,nodejs,yarn,vscode&perline=9" alt="Tech Stack"/>
 </p>
 
 <details>
@@ -80,11 +91,11 @@ const marcin = {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MagmMe&theme=tokyonight" alt="Profile Details"/>
 </p>
 
-<p align="center">
+<div align="center">
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MagmMe&theme=tokyonight" alt="Repos per Language"/>
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MagmMe&theme=tokyonight" alt="Most Commit Language"/>
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MagmMe&theme=tokyonight" alt="Stats"/>
-</p>
+</div>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MagmMe&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
@@ -96,59 +107,43 @@ const marcin = {
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">Garmin Cleaner</h3>
-      <p align="center">
-        <a href="https://github.com/MagmMe/garmincleaner">
-          <img src="https://img.shields.io/badge/macOS-Disk_Cleanup-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Garmin Cleaner"/>
-        </a>
+    <td width="50%" align="center">
+      <h3><a href="https://github.com/MagmMe/garmincleaner">Garmin Cleaner</a></h3>
+      <p>Script to clean old Garmin Express installations & maps (PL/EN).</p>
+      <p>
+        <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white"/>
+        <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white"/>
       </p>
-      <p align="center">Script to clean old Garmin Express installations & maps (PL/EN)</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Bash-100%25-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
-        <img src="https://img.shields.io/github/stars/MagmMe/garmincleaner?style=flat-square&color=yellow"/>
-      </p>
+      <img src="https://img.shields.io/github/stars/MagmMe/garmincleaner?style=social" alt="Stars"/>
     </td>
-    <td width="50%">
-      <h3 align="center">WellCore Beacon App</h3>
-      <p align="center">
-        <a href="https://github.com/MagmMe/WellCore-Beacon-App">
-          <img src="https://img.shields.io/badge/iOS-iBeacon_Detection-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="WellCore"/>
-        </a>
+    <td width="50%" align="center">
+      <h3><a href="https://github.com/MagmMe/WellCore-Beacon-App">WellCore Beacon App</a></h3>
+      <p>iOS app for detecting and monitoring iBeacons.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white"/>
+        <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white"/>
       </p>
-      <p align="center">iOS app for detecting and monitoring iBeacons</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Swift-100%25-FA7343?style=flat-square&logo=swift&logoColor=white"/>
-        <img src="https://img.shields.io/github/stars/MagmMe/WellCore-Beacon-App?style=flat-square&color=yellow"/>
-      </p>
+      <img src="https://img.shields.io/github/stars/MagmMe/WellCore-Beacon-App?style=social" alt="Stars"/>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3 align="center">Tabata Timer</h3>
-      <p align="center">
-        <a href="https://github.com/MagmMe/TabataTimer">
-          <img src="https://img.shields.io/badge/iOS-Workout_Timer-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Tabata"/>
-        </a>
+    <td width="50%" align="center">
+      <h3><a href="https://github.com/MagmMe/TabataTimer">Tabata Timer</a></h3>
+      <p>Workout timer for Tabata intervals.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white"/>
+        <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white"/>
       </p>
-      <p align="center">Workout timer for Tabata intervals</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Swift-100%25-FA7343?style=flat-square&logo=swift&logoColor=white"/>
-        <img src="https://img.shields.io/github/stars/MagmMe/TabataTimer?style=flat-square&color=yellow"/>
-      </p>
+      <img src="https://img.shields.io/github/stars/MagmMe/TabataTimer?style=social" alt="Stars"/>
     </td>
-    <td width="50%">
-      <h3 align="center">UserLocation</h3>
-      <p align="center">
-        <a href="https://github.com/MagmMe/UserLocation">
-          <img src="https://img.shields.io/badge/iOS-Location_Services-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="UserLocation"/>
-        </a>
+    <td width="50%" align="center">
+      <h3><a href="https://github.com/MagmMe/UserLocation">UserLocation</a></h3>
+      <p>User location module for iOS apps.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white"/>
+        <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white"/>
       </p>
-      <p align="center">User location module for iOS apps</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Swift-100%25-FA7343?style=flat-square&logo=swift&logoColor=white"/>
-        <img src="https://img.shields.io/github/stars/MagmMe/UserLocation?style=flat-square&color=yellow"/>
-      </p>
+      <img src="https://img.shields.io/github/stars/MagmMe/UserLocation?style=social" alt="Stars"/>
     </td>
   </tr>
 </table>
