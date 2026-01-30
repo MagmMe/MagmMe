@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="border-bottom: none;">Hi, I'm Marcin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+  <h1 style="border-bottom: none;">Hi, I'm Martin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
   <h3>Full-Stack & Mobile Developer 🚀</h3>
   <p>Automation Enthusiast 🤖 | iOS | Web</p>
 </div>
