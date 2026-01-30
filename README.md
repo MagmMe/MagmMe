@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Marcin%20Magiera&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20Mobile%20Developer&descAlignY=60&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f172a,312e81&height=250&section=header&text=Marcin%20Magiera&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20Mobile%20Developer&descAlignY=60&descSize=20" width="100%"/>
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Hi%2C+I'm+Marcin+%F0%9F%91%8B;Full-Stack+%26+Mobile+Developer;Automation+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Hi%2C+I'm+Marcin+%F0%9F%91%8B%3BFull-Stack+%26+Mobile+Developer%3BAutomation+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
 </p>
 
 <div align="center">
