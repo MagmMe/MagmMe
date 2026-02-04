@@ -24,7 +24,7 @@
 
 ```javascript
 const marcin = {
-    location: "Chrzanow, Poland",
+    location: "Chrzanów, Poland",
     company: "Magme Agency",
     roles: ["Full-Stack Developer", "iOS Developer", "Automation Specialist"],
     passion: "Automation - making things work smarter, not harder",
